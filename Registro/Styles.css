@@ -146,3 +146,8 @@ input[type='text']:focus, [type='email']:focus, [type='password']:focus {
     font-size: 0.875em;
   }
 }
+
+#submit {
+  margin-left: 27%;
+
+}

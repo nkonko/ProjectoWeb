@@ -1,0 +1,16 @@
+#Caja {
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+input{
+    font-family: 'Playfair Display', serif;
+}
+
+h1{
+    font-family: 'Redressed', cursive;
+    font-size: 80px;
+}
+#border{
+    border-radius: 15px;
+}
